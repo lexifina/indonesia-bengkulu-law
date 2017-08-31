@@ -1,0 +1,9 @@
+---
+Text-source: OCR (Tesseract 5.4.0, ind) of the official scan https://jdih.bengkuluprov.go.id/storage/documents/PERDA__PROVINSI_BENGKULU_NOMOR_6_TAHUN_2017.pdf
+---
+# Pasal 28
+(1) Penghasilan, tunjangan kesejahteraan, uang jasa pengabdian Pimpinan dan Anggota DPRD, serta belanja penunjang kegiatan DPRD merupakan anggaran belanja DPRD yang diformulasikan ke dalam rencana kerja dan anggaran satuan kerja perangkat daerah sekretariat DPRD serta diuraikan ke dalam jenis belanja sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Pengelolaan anggaran belanja DPRD sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+(3) Anggaran belanja DPRD sebagaimana dimaksud pada ayat (1) merupakan bagian yang tidak terpisahkan dari APBD.
+BAB V
+KETENTUAN LAIN-LAIN
