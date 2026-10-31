@@ -1,0 +1,22 @@
+{
+ "parts": {
+  "30-ocr-01.json": {
+   "acts": [
+    "perda-2014-004-penanggulangan-rabies",
+    "perda-2014-006-perubahan-atas-peraturan-daerah-provinsi-bengkulu-nomor-2-tahun-2011",
+    "perda-2016-007-retribusi-perpanjangan-izin-mempekerjakan-tenaga-kerja-asing",
+    "perda-2017-003-pencabutan-peraturan-daerah-provinsi-daerah-tingkat-i-bengkulu-nomor",
+    "perda-2017-006-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan",
+    "perda-2018-001-pencabutan-peraturan-daerah-provinsi-bengkulu-nomor-5-tahun-2008",
+    "perda-2018-002-penyelenggaraan-ketertiban-umum-ketentraman-masyarakat-dan",
+    "perda-2019-011-perubahan-kedua-atas-peraturan-daerah-provinsi-bengkulu-nomor-2-tahun",
+    "perda-2021-002-perubahan-bentuk-hukum-perusahaan-daerah-bimex-menjadi-perusahaan-pt",
+    "perda-2024-002-penyelenggaraan-kearsipan",
+    "perda-2024-003-perubahan-kedua-atas-peraturan-daerah-nomor-8-tahun-2016-tentang",
+    "perda-2025-005-fasilitasi-penyelenggaraan-pesantren"
+   ],
+   "sha256": "5b0cf61d2a61c98361d33630cca95cf9b3dce647aea17096f67f623ec11ee289"
+  }
+ },
+ "schema": 1
+}
