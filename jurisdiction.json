@@ -1,0 +1,8 @@
+{
+  "path": "id-be",
+  "code": "ID-BE",
+  "name": "Bengkulu (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-bengkulu-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Bengkulu as enacted, Indonesian text, from JDIH Provinsi Bengkulu (Biro Hukum Sekretariat Daerah Provinsi Bengkulu)"
+}
